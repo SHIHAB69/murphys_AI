@@ -5,7 +5,7 @@ import '../models/api_response_model.dart';
 class ChatService {
   final Dio _dio = Dio();
   final String _apiUrl = 'https://api.groq.com/openai/v1/chat/completions';
-  final String _apiKey = 'Bearer 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';
+  final String _apiKey = 'Bearer YOUR_API_KEY'; //add your API key and your'e good to go 
 
   Future<ApiResponse> sendMessage(List<Message> messages) async {
     try {
