@@ -87,7 +87,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 [Add your license information here]
 
-## Acknowledgements
+## Acknowledgemen
+https://www.canva.com/design/DAGhY-qXgF0/msFshUuVjJskTpxa4XOUiQ/edit
 
 - [GROQ](https://groq.com) for providing the AI models
 - The Flutter community for their excellent packages
